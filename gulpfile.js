@@ -38,7 +38,7 @@ gulp.task('sass', function () {
         // outputStyle: nested (default), expanded, compact, compressed
         .pipe(sass({outputStyle: 'expanded'}).on('error', sass.logError))
         .pipe(prefix("last 2 versions"))
-        .pipe(sourcemaps.write())
+        .pipe(sourcemaps.write('./maps'))
         .pipe(gulp.dest('./public_html/css'))
         .pipe(browserSync.stream());
 });
