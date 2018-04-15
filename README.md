@@ -15,16 +15,15 @@ Volgende tools hoef je maar eenmalig te installeren:
 
 ## Een nieuw Sass-BS4-project starten
 
-- Download of clone deze repo `git clone https://github.com/pverhaert/1ITF_Sass_BS4_project.git`
-- Hernoem de map
-- Open een nieuw terminalvenster in de hernoemde map en installeer de node-modules: `npm install`
-- Kopieer de jQuery.min.js en bootstrap.bundle.min.js naar de map **public_html/js**: `gulp js`
+- Download of clone deze repo `git clone https://github.com/pverhaert/1ITF_Sass_BS4_project.git <project naam>`
+- Open een nieuw terminalvenster in de map **project naam** en installeer de node-modules: `npm install`
+- Kopieer de **jQuery.min.js** en **bootstrap.bundle.min.js** naar de map **public_html/js**: `gulp js`
 - Start de Sass-compiler: `gulp`
 
 ## CSS-bestanden optimaliseren voor productie!
 
- De CSS-bestanden in dit project zijn nog niet geoptimaliseerd voor productie. 
- De code is immers nog geëxpandeerd en bevatten een source-map om vlot te debuggen.
+ Het CSS-bestand in dit project zijn nog niet geoptimaliseerd voor productie. 
+ De code is immers nog geëxpandeerd en bevat een source-map om vlot te debuggen.
  
 Om de bestanden sneller te laden moet je zeker de gegenereerde CSS-code minimaliseren. Dit doe je als volgt:
 
