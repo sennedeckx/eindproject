@@ -20,7 +20,7 @@ Volgende tools hoef je maar eenmalig te installeren:
 - Kopieer de **jQuery.min.js** en **bootstrap.bundle.min.js** naar de map **public_html/js**: `gulp js`
 - Start de Sass-compiler: `gulp`
 
-## CSS-bestanden optimaliseren voor productie!
+## CSS-bestand optimaliseren voor productie!
 
  Het CSS-bestand in dit project zijn nog niet geoptimaliseerd voor productie. 
  De code is immers nog geëxpandeerd en bevat een source-map om vlot te debuggen.
