@@ -30,6 +30,6 @@ Om de bestanden sneller te laden moet je zeker de gegenereerde CSS-code minimali
 - Stop de default gulp-task: `Ctrl + c`
 - Minimaliseer de CSS-code: `gulp build`
 - Upload de CSS-bestanden naar de webserver
-- Start de default gulp-task: `gulp build`
+- Start de default gulp-task: `gulp`
 
 Het originele CSS-bestand van **600 kB** is na optimalisatie nog naar **120 kB** groot!!!
