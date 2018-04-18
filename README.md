@@ -35,7 +35,7 @@ Om de bestanden sneller te laden moet je zeker de gegenereerde CSS-code minimali
 Het originele CSS-bestand van **600 kB** is na optimalisatie nog naar **120 kB** groot!!!
 
 
-# Stappenplan voor een nieuwe team website op basis van dit project
+## Stappenplan voor een nieuwe team website op basis van dit project
 
 Werk je met twee of meer teamleden aan hetzelfde project, dan volg je best deze werkwijze. Begin alvast met een teamleader 🎓 aan te duiden en een naam voor het project te kiezen.
 
@@ -47,7 +47,8 @@ Werk je met twee of meer teamleden aan hetzelfde project, dan volg je best deze 
 2. `cd projectNaam`
 3. Wis de map **.git**
 4. Initialiseer een nieuwe Git-repo `git init`
-5. Voeg alle bestanden (uitgezonderd deze die zijn uitgesloten via **.gitignore**) uit deze map aan de staging area toe   `git add .`
+5. Voeg alle bestanden (uitgezonderd deze die zijn uitgesloten via **.gitignore**) uit deze map aan de staging area toe   
+`git add .`
 6. Verplaats de bestanden van de staging area naar de lokale repo `git commit -m "First commit"`
 
 ### Opzetten van een remote repo door de teamleader 🎓
