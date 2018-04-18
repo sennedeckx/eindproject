@@ -79,7 +79,8 @@ Wacht dus niet te lang met wijzigingen op Github te plaatsen.
 1. Controleer de status `git status`
 2. Voeg alle wijzigingen aan de staging area toe `git add .`
 3. Verplaats de bestanden van de staging area naar de lokale repo `git commit -m "Comment"`
-4. Push de lokale repo naar de remote repo `git push --rebase`
+4. Synchroniseer met de remote repo `git pull --rebase`
+5. Push de lokale repo naar de remote repo `git push`
 
 
 
