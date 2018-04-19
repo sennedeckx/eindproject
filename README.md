@@ -39,7 +39,7 @@ Het originele CSS-bestand van **600 kB** is na optimalisatie nog naar **120 kB**
 
 Werk je met twee of meer teamleden aan hetzelfde project, dan volg je best deze werkwijze. Begin alvast met een teamleader 🎓 aan te duiden en een naam voor het project te kiezen.
 
-### Een GitHub account aanmaken en configureren (eenmalig door alle teamleden)
+### Een GitHub account aanmaken en configureren (eenmalig door alle teamleden 🎓👤👤)
 
 1. Maak, met je mailaderes van de school, een GitHub-account aan op https://github.com. (Als student krijg je extra features zoals private ropos)
 2. Upgrade van je education account via https://education.github.com/
