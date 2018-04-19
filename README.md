@@ -39,6 +39,16 @@ Het originele CSS-bestand van **600 kB** is na optimalisatie nog naar **120 kB**
 
 Werk je met twee of meer teamleden aan hetzelfde project, dan volg je best deze werkwijze. Begin alvast met een teamleader 🎓 aan te duiden en een naam voor het project te kiezen.
 
+### Een GitHub account aanmaken en configureren (eenmalig door alle teamleden)
+
+1. Maak, met je mailaderes van de school, een GitHub-account aan op https://github.com. (Als student krijg je extra features zoals private ropos)
+2. Upgrade van je education account via https://education.github.com/
+3. Stel met volgende commando’s lokaal je identiteit in:   
+`git config ‐‐global user.name "je naam"`   
+`git config ‐‐global user.email "je mailadres"`   
+`git config ‐‐global core.editor notepad`
+
+
 ### Opzetten van een lokale repo door de teamleader 🎓
 
 **De overige teamleden 👤👤 doen voorlopig nog niets!**
@@ -53,7 +63,7 @@ Werk je met twee of meer teamleden aan hetzelfde project, dan volg je best deze 
 
 ### Opzetten van een remote repo door de teamleader 🎓
 
-1. Maak een nieuwe, lege, (private) repo **projectNaam** op Github   
+1. Maak een nieuwe, lege, (private) repo **projectNaam** op GitHub   
 (dus zonder ***.gitignore*** en zonder ***README***!)
 2. Verbind de lokale repo met de remote repo `git remote add <remote‐name> <remote‐url>`   
 bv: `git remote add origin https://github.com/teamleader/projectNaam.git`
@@ -74,7 +84,7 @@ Proficiat! De samenwerking kan beginnen.
 ### Stagen en committen van lokaal gewijzigde bestanden 🎓👤👤
 
 Maak regelmatig back-ups zodat de ander teamleden weten waar je mee bezig bent.   
-Wacht dus niet te lang met wijzigingen op Github te plaatsen. 
+Wacht dus niet te lang met wijzigingen op GitHub te plaatsen. 
 
 1. Controleer de status `git status`
 2. Voeg alle wijzigingen aan de staging area toe `git add .`
