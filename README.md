@@ -41,7 +41,7 @@ Werk je met twee of meer teamleden aan hetzelfde project, dan volg je best deze 
 
 ### Een GitHub account aanmaken en configureren (eenmalig door alle teamleden 🎓👤👤)
 
-1. Maak, met je mailaderes van de school, een GitHub-account aan op https://github.com. (Als student krijg je extra features zoals private ropos)
+1. Maak, met je mailaderes van de school, een GitHub-account aan op https://github.com. (Als student krijg je extra features zoals private repos)
 2. Upgrade van je education account via https://education.github.com/
 3. Stel met volgende commando’s lokaal je identiteit in:   
 `git config ‐‐global user.name "je naam"`   
@@ -74,6 +74,7 @@ bv: `git remote add origin https://github.com/teamleader/projectNaam.git`
 1. Klik op de pagina **https://github.com/teamleader/projectNaam** op ***settings***
 2. Klik links in het menu op ***Collaborators***
 3. Nodig overige teamleden 👤👤 uit
+4. Teamleden aanvaarden de uitnodiging via een e-mail van GitHub
 
 ### Teamleden 👤👤 clonen van een remote repo
 
